@@ -2,7 +2,7 @@
 
 Optimized for Python, PHP, Javascript, Node.js, HTML, CSS and more!
 
-![vim-ide](https://github.com/rafael84/vim-ide/raw/master/img/overview.png)
+![vim-ide](https://github.com/delete/vim-ide/raw/master/img/overview.png)
 
 ### pre-requisites
 
@@ -16,7 +16,7 @@ Optimized for Python, PHP, Javascript, Node.js, HTML, CSS and more!
 
 ### installation (do you trust me?)
  
-    wget -O - https://raw.githubusercontent.com/rafael84/vim-ide/master/install.sh | bash
+    wget -O - https://raw.githubusercontent.com/delete/vim-ide/master/install.sh | bash
 
 
 ### how to customize it
