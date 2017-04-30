@@ -34,6 +34,12 @@ Just as an example, here's how to change the color scheme:
     echo "silent!colorscheme elflord" >> ~/.vimrc_extra
 
 
+
+Transparent background?
+
+`:hi Normal guibg=NONE ctermbg=NONE`
+
+
 ### shortcuts
 
 mode    | shortcut              | description
