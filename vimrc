@@ -73,6 +73,10 @@ set noswapfile
 set foldlevel=99
 
 
+""" Shortcuts
+"
+set pastetoggle=<F10>
+
 
 """ VUNDLE
 "
